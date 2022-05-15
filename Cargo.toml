@@ -1,0 +1,14 @@
+[package]
+name = "charis"
+version = "0.1.0"
+authors = ["ydah <t.yudai92@gmail.com>"]
+documentation = "https://github.com/ydah/charis"
+edition = "2021"
+homepage = "https://github.com/ydah/charis"
+license = "MIT"
+repository = "https://github.com/ydah/charis"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
